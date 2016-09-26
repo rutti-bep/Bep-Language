@@ -53,10 +53,10 @@ function Read(){
 						case "]":
 							splitedText[i] = "bep>";
 						break;
-						case ".":
+						case ",":
 							splitedText[i] = "司令官何だい？";
 						break;
-						case ",":
+						case ".":
 							splitedText[i] = "司令官に連絡みたいだよ";
 						break;
 					}
