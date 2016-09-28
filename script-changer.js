@@ -42,7 +42,7 @@ function Read(){
 							splitedText[i] = "хорошо";
 						break;
 						case ">":
-							splitedText[i] = "了解、響出撃する";
+							splitedText[i] = "了解、出撃する";
 						break;
 						case "<":
 							splitedText[i] = "そろそろ戻ってもいいかな";
