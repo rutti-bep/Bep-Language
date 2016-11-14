@@ -1,4 +1,6 @@
 # Bep-Language
+ - ロジックをbrainFxxkからLispにする予定でLisp勉強しなきゃならないからしばらくかかりそう...
+
 | word | brainfxxk word|
 |:----:|:-------------:|
 |ура  | +             |
